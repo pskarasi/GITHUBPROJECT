@@ -8,4 +8,6 @@ public void printmsg(){
 public integer addmumbers(Integer a, Integer b){
     return a+b;
 }
+public integer substractNumber (Integer a, Integer b)
+return a-b;
 }
